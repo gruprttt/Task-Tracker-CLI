@@ -3,6 +3,8 @@ This is my First Project while learning Backend Development.
 
 A simple command-line interface (CLI) task tracker that allows users to add, update, delete, mark, and list tasks. Tasks are stored in a JSON file and can be managed by running commands in the terminal.
 
+Task Details - https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - **Add a Task**: Create a new task with a description.
